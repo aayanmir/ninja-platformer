@@ -1,69 +1,116 @@
 # ninja-platformer
-Ninja Platformer 🎮
+# 🎮 Ninja Platformer
 
-A 2D platformer game developed using Python and Pygame.
+> A 2D action-platformer developed using **Python** and **Pygame**.
 
-About
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-2.x-green)](https://www.pygame.org/)
 
-Ninja Platformer is a 2D action-platformer where the player controls a ninja, navigates platforms, avoids or fights enemies, and progresses through the game.
+---
 
-The project was originally developed as part of my Computer Science NEA and has been uploaded as a portfolio project to showcase my Python and game development experience.
+## 📸 Screenshots
 
-Features
-🎮 Player movement and platforming
-⚔️ Combat mechanics
-👾 Enemies
-🧱 Platform and collision systems
-🎨 Custom game assets and pixel-style visuals
-🔊 Sound and music
-🗺️ Game levels and environments
-🖥️ Custom game/editor functionality
-Technologies
-Python
-Pygame
-Project Structure
+*Screenshots coming soon.*
+
+---
+
+## 🕹️ About
+
+**Ninja Platformer** is a 2D action-platformer where the player controls a ninja, navigates platforms, encounters enemies and progresses through the game.
+
+The project was originally developed as part of my **Computer Science NEA** and is now being showcased as a portfolio project to demonstrate my experience with Python and game development.
+
+---
+
+## ✨ Features
+
+* 🎮 Player movement and platforming
+* ⚔️ Combat mechanics
+* 👾 Enemy systems
+* 🧱 Platform and collision detection
+* 🎨 Custom game assets and pixel-style visuals
+* 🔊 Sound and music
+* 🗺️ Game levels and environments
+* 🛠️ Custom editor functionality
+
+---
+
+## 🛠️ Technologies
+
+| Technology    | Purpose                    |
+| ------------- | -------------------------- |
+| 🐍 **Python** | Main programming language  |
+| 🎮 **Pygame** | Game development framework |
+
+---
+
+## 📁 Project Structure
+
+```text
 ninja-platformer/
-├── data/                 # Game assets and resources
-├── scripts/              # Game scripts and supporting code
-├── 8BITWONDER.ttf       # Game font
-├── editor.py             # Level/editor functionality
-├── game.py               # Main game
-└── game.spec             # Build configuration
-How to Run
-Requirements
-Python 3
-Pygame
+│
+├── data/                  # Game assets and resources
+├── scripts/               # Game scripts and supporting code
+├── 8BITWONDER.ttf        # Game font
+├── editor.py              # Level/editor functionality
+├── game.py                # Main game
+└── game.spec              # Build configuration
+```
 
-Install Pygame with:
+---
 
+## 🚀 How to Run
+
+### Requirements
+
+* Python 3
+* Pygame
+
+### Installation
+
+Install Pygame using pip:
+
+```bash
 pip install pygame
+```
 
-Then run:
+### Run the Game
 
+```bash
 python game.py
-What I Learned
+```
 
-Through developing this project, I gained experience with:
+---
 
-Object-oriented and modular programming
-Game loops and event handling
-Collision detection
-Player and enemy mechanics
-Managing game assets
-Debugging and testing
-Structuring a larger Python project
-Screenshots
+## 🧠 What I Learned
 
-Screenshots and gameplay footage will be added soon.
+Developing this project gave me experience with:
 
-Future Improvements
+* Modular Python programming
+* Game loops and event handling
+* Collision detection
+* Player and enemy mechanics
+* Managing game assets
+* Debugging and testing
+* Structuring a larger Python project
 
-Some potential improvements include:
+---
 
-Additional levels
-More enemy types
-Additional player abilities
-Improved animations
-Further gameplay balancing
+## 🔮 Future Improvements
 
-Built with Python and Pygame.
+Potential future improvements include:
+
+* Additional levels
+* More enemy types
+* Additional player abilities
+* Improved animations
+* Further gameplay balancing
+
+---
+
+## 👨‍💻 Author
+
+**Aayan Mir**
+
+Built with **Python** and **Pygame**.
+
